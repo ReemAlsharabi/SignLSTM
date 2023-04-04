@@ -12,7 +12,7 @@ This project implements a real-time sign language detection system using LSTM Ke
 3. The program will display the detected gesture and its classification.
 
 ## Notes
-- If you don't want to capture the frames yourself for training and want to use my dataset, please contact me.
+- If you don't want to capture the frames yourself for training. You can use the dataset under `MP_Data`.
 
 ### P.S.
 Special thanks to my brother for recording the GIF :)
